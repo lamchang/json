@@ -1,7 +1,11 @@
 {
-  "allCustomers": false,
-  "targetIntermediary": 0,
-  "startDate": "",
-  "endDate": "",
-  "customers": []
+  "allCustomers": true,
+  "targetIntermediary": 8817271,
+  "startDate": "99/99/999",
+  "endDate": "99/99/999",
+  "customers": [
+    {
+      "name": "Hola mundo!"
+    }
+  ]
 }
